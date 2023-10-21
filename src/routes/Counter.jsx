@@ -29,7 +29,7 @@ export default function Counter() {
       <button onClick={handleOnClick}>Set count value</button>
       <Link to="/">
         {" "}
-        <p>Back to Hompage</p>{" "}
+        <p>Back to Error Page</p>{" "}
       </Link> </div>
       <h3>Created by AbdulGafar</h3>
     </div>
